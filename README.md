@@ -5,7 +5,7 @@ Week 0 prep app for Codepath training
 
 ### App Walk-through
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src=https://github.com/karacanzeynep98/HelloFromZey/raw/master/HelloFromZey.gif width=200><br>
 
 
 ### Required User Stories
